@@ -1,1 +1,1 @@
-export {FirstScreen} from './FirstScreen';
+export {LoginOne} from './LoginOne';

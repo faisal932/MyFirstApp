@@ -1,7 +1,10 @@
 import React from 'react';
-import {FirstScreen} from './app/screens';
+import {LoginOne} from './app/screens';
 const App = () => {
-  return <FirstScreen />;
+  return (
+    <LoginOne />
+    
+  );
 };
 
 export default App;
