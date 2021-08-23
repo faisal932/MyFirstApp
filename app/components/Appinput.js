@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     imgstyle:{
         width: '40%',
         height: '40%',
-        resizeMode: 'cover'
+        resizeMode: 'contain'
     },
     imgcontaierstyle:{
         width:'20%',
