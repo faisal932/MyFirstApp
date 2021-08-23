@@ -3,7 +3,7 @@ import {StyleSheet, Text, TextInput, View, Image} from 'react-native';
 import { Appinput } from '../components';
 export const LoginOne = () => {
   return (
-    <View>
+    <View style = {styles.contaier}>
       <Text style={styles.txtone}>Login</Text>
         <Appinput />
         <Appinput />
@@ -19,5 +19,9 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: '#878682',
   },
-
+  contaier:{
+    width: '100%',
+    height: '100%',
+    // flex:1,
+  }
 });
