@@ -20,8 +20,6 @@ const styles = StyleSheet.create({
     color: '#878682',
   },
   contaier:{
-    width: '100%',
-    height: '100%',
-    // flex:1,
-  }
+    flex:1,
+  },
 });
