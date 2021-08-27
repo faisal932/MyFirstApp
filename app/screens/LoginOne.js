@@ -6,7 +6,6 @@ export const LoginOne = () => {
     <View style = {styles.contaier}>
       <Text style={styles.txtone}>Login</Text>
         <Appinput />
-        <Appinput />
     </View>
   );
 };
