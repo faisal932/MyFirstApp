@@ -1,8 +1,9 @@
 import React from 'react';
-import {LoginOne,Settings} from './app/screens';
+import {LoginOne,Settings,Account,Privacy,Security} from './app/screens';
+
 const App = () => {
   return (
-    <Settings />
+    <Security />
     
   );
 };

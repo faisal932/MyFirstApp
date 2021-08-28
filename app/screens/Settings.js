@@ -7,10 +7,10 @@ import { TextField } from '../components/TextField'
 export const Settings = () => {
     return (
         <View>
-            <StatusBar backgroundColor = "#437556" />
+            <StatusBar backgroundColor = "#437540" />
        <Appbar name = "Settings" iconname = "arrowleft" />
        <ProfilePicandTxt />
-       <TextField txt = "Acount" iconname = "key" detail = "Privacy, Security, Change Number" />
+       <TextField txt = "Account" iconname = "key" detail = "Privacy, Security, Change Number" />
        <TextField txt = "Chats" iconname = "chat" detail = "Theme, Wallpapers, chat history"  />
        <TextField txt = "Notifications" iconname = "bell" detail = "Message, group & tones"  />
        <TextField txt = "Storage and data" iconname = "picasa" detail = "Network usage, auto download"  />

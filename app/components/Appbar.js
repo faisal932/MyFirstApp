@@ -30,7 +30,8 @@ const styles = StyleSheet.create({
         fontSize:22,
         color: 'white',
         margin:5,
-        marginTop:7
+        marginTop:7,
+        marginLeft:22
 
     }
 })
