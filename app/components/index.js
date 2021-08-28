@@ -9,3 +9,4 @@ export {PrivacyNormalBoxes} from './PrivacyNormalBoxes';
 export {PrivacyFirstBox} from './PrivacyFirstBox';
 export {PrivacyLastBox} from './PrivacyLastBox';
 export {SecurityFirstBox} from './SecurityFirstBox';
+export {Button} from './Button';
