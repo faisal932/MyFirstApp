@@ -4,10 +4,10 @@ import { Appinput,Button } from '../components';
 export const LoginOne = () => {
   return (
     <View style = {styles.contaier}>
-      <Text style={styles.txtone}>Login</Text>
+      <Text style={styles.txtone}>SIGNUP</Text>
         <Appinput plcholder = "Enter Email" path = {require("../assets/email.png")} />
         <Appinput plcholder = "Enter Password" path = {require("../assets/lock.png")} style={styles.inputstyle} />
-        <Appinput plcholder = "Confirm Password" path = {require("../assets/lock.png")} />
+        <Appinput plcholder = "Confirm Password" path = {require("../assets/agreement.png")} />
         <Button lable = "Submit" />
         <Text style = {styles.txtstyle} >Login</Text>
     </View>
