@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         alignSelf: 'center',
         margin:44,
         marginTop:75,
-
+        color: 'green'
     },
     txtstyle:{
         fontSize:16,
