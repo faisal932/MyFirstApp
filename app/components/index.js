@@ -10,3 +10,4 @@ export {PrivacyFirstBox} from './PrivacyFirstBox';
 export {PrivacyLastBox} from './PrivacyLastBox';
 export {SecurityFirstBox} from './SecurityFirstBox';
 export {Button} from './Button';
+export {EndorcementsModal} from './EndorcementsModal';

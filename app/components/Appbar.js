@@ -16,19 +16,20 @@ export const Appbar = (props) => {
 const styles = StyleSheet.create({
     container:{
         flexDirection: 'row',
-        backgroundColor: '#437555',
+        backgroundColor: 'white',
         height: 54,
-        alignItems: 'center'
+        alignItems: 'center',
+        borderBottomWidth: 0.5,
     },
     fontstyle:{
-        color: 'white',
+        // color: 'white',
         fontSize: 22,
         margin: 5,
         marginTop: 11
     },
     txtstyle:{
         fontSize:22,
-        color: 'white',
+        // color: 'white',
         margin:5,
         marginTop:7,
         marginLeft:22
